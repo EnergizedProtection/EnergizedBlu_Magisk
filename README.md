@@ -1,2 +1,2 @@
-# EnergizedBlu_Magisk
-Energized Blu Magisk Module.
+# Energized Blu 
+Lightweight [Energized](https://github.com/AdroitAdorKhan/Energized) Protection.
